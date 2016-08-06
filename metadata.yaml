@@ -1,0 +1,35 @@
+_repo: Purple-Springs_10221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McClung, Nellie L.
+    aliases:
+    - McClung, Nellie Letitia Mooney
+    - Mooney, Nellie Letitia
+    birthdate: 1873
+    deathdate: 1951
+    gutenberg_agent_id: '1470'
+    url: http://www.gutenberg.org/2009/agents/1470
+    wikipedia: http://en.wikipedia.org/wiki/Nellie_McClung
+description: McClung skilfully weaves together a series of social critiques in a tale
+  of love, vocation, and coming-of-age, which sees Pearl, as a prototypical McClung,
+  take on the corrupt Conservative government of Manitoba - and win. Purple Springs
+  explores an important piece of Canadian social history. It invites its readers to
+  enter imaginatively an earlier age when women were second-class citizens in law
+  as well as custom, and gives at least one woman's view of what needed to be done
+  to right that injustice. -Amazon.com.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Manitoba -- Politics and government -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Purple Springs
+url: http://www.gutenberg.org/ebooks/10221
