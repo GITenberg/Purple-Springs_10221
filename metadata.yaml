@@ -1,5 +1,8 @@
 _repo: Purple-Springs_10221
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McClung, Nellie L.
@@ -18,6 +21,8 @@ description: McClung skilfully weaves together a series of social critiques in a
   enter imaginatively an earlier age when women were second-class citizens in law
   as well as custom, and gives at least one woman's view of what needed to be done
   to right that injustice. -Amazon.com.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10221#Purple-Springs
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
